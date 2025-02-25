@@ -24,3 +24,5 @@ public class Input {
         return scanner.nextFloat();
     }
 }
+
+/*DEJA DE COPIARRRRRRRRRRRRRRRR CHATGPT*/
